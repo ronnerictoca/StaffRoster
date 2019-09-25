@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RosterModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Reference">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="SiteId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Site">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Staff">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="StaffAccess">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StaffId" Type="int" Nullable="false" />
+    <Property Name="SiteId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StaffRoster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StaffId" Type="int" Nullable="false" />
+    <Property Name="SiteId" Type="int" Nullable="false" />
+    <Property Name="StartDate" Type="datetime" Nullable="false" />
+    <Property Name="EndDate" Type="datetime" Nullable="false" />
+    <Property Name="SalaryCost" Type="int" />
+    <Property Name="RefId" Type="int" />
+    <Property Name="Reference" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Reference_Sites">
+    <End Role="Site" Type="Self.Site" Multiplicity="1" />
+    <End Role="Reference" Type="Self.Reference" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Site">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reference">
+        <PropertyRef Name="SiteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RosterInformation_Sites">
+    <End Role="Site" Type="Self.Site" Multiplicity="1" />
+    <End Role="StaffRoster" Type="Self.StaffRoster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Site">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StaffRoster">
+        <PropertyRef Name="SiteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RosterInformation_Staffs">
+    <End Role="Staff" Type="Self.Staff" Multiplicity="1" />
+    <End Role="StaffRoster" Type="Self.StaffRoster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StaffRoster">
+        <PropertyRef Name="StaffId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StaffAccess_Sites">
+    <End Role="Site" Type="Self.Site" Multiplicity="1" />
+    <End Role="StaffAccess" Type="Self.StaffAccess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Site">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StaffAccess">
+        <PropertyRef Name="SiteId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StaffAccess_Staffs">
+    <End Role="Staff" Type="Self.Staff" Multiplicity="1" />
+    <End Role="StaffAccess" Type="Self.StaffAccess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StaffAccess">
+        <PropertyRef Name="StaffId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StaffRoster_Reference">
+    <End Role="Reference" Type="Self.Reference" Multiplicity="0..1" />
+    <End Role="StaffRoster" Type="Self.StaffRoster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reference">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StaffRoster">
+        <PropertyRef Name="RefId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RosterModelStoreContainer">
+    <EntitySet Name="Reference" EntityType="Self.Reference" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Site" EntityType="Self.Site" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Staff" EntityType="Self.Staff" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StaffAccess" EntityType="Self.StaffAccess" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StaffRoster" EntityType="Self.StaffRoster" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Reference_Sites" Association="Self.FK_Reference_Sites">
+      <End Role="Site" EntitySet="Site" />
+      <End Role="Reference" EntitySet="Reference" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RosterInformation_Sites" Association="Self.FK_RosterInformation_Sites">
+      <End Role="Site" EntitySet="Site" />
+      <End Role="StaffRoster" EntitySet="StaffRoster" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RosterInformation_Staffs" Association="Self.FK_RosterInformation_Staffs">
+      <End Role="Staff" EntitySet="Staff" />
+      <End Role="StaffRoster" EntitySet="StaffRoster" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StaffAccess_Sites" Association="Self.FK_StaffAccess_Sites">
+      <End Role="Site" EntitySet="Site" />
+      <End Role="StaffAccess" EntitySet="StaffAccess" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StaffAccess_Staffs" Association="Self.FK_StaffAccess_Staffs">
+      <End Role="Staff" EntitySet="Staff" />
+      <End Role="StaffAccess" EntitySet="StaffAccess" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StaffRoster_Reference" Association="Self.FK_StaffRoster_Reference">
+      <End Role="Reference" EntitySet="Reference" />
+      <End Role="StaffRoster" EntitySet="StaffRoster" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

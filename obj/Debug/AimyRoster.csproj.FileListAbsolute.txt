@@ -1,0 +1,300 @@
+C:\projects\Roster\AimyRoster\AimyRoster\bin\ApplicationInsights.config
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\csc.exe
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\vbc.exe
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\VBCSCompiler.exe
+C:\projects\Roster\AimyRoster\AimyRoster\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\Roster\AimyRoster\AimyRoster\bin\AimyRoster.dll.config
+C:\projects\Roster\AimyRoster\AimyRoster\bin\AimyRoster.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\AimyRoster.pdb
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.Agent.Intercept.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.DependencyCollector.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.Web.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.WindowsServer.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.ApplicationInsights.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Helpers.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Mvc.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Razor.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Webpages.Deployment.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Webpages.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Webpages.Razor.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.DependencyCollector.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.Web.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.AI.WindowsServer.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.ApplicationInsights.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Razor.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Webpages.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Webpages.Deployment.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Webpages.Razor.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Helpers.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\System.Web.Mvc.xml
+C:\projects\Roster\AimyRoster\AimyRoster\obj\Debug\AimyRoster.dll
+C:\projects\Roster\AimyRoster\AimyRoster\obj\Debug\AimyRoster.pdb
+C:\projects\Roster\AimyRoster\AimyRoster\bin\EntityFramework.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\EntityFramework.SqlServer.dll
+C:\projects\Roster\AimyRoster\AimyRoster\bin\EntityFramework.xml
+C:\projects\Roster\AimyRoster\AimyRoster\bin\EntityFramework.SqlServer.xml
+C:\projects\Roster\AimyRoster\AimyRoster\obj\Debug\AimyRoster.csprojResolveAssemblyReference.cache
+C:\projects\Roster\AimyRoster\bin\ApplicationInsights.config
+C:\projects\Roster\AimyRoster\bin\roslyn\csc.exe
+C:\projects\Roster\AimyRoster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\Roster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\Roster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\Roster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\Roster\AimyRoster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\Roster\AimyRoster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\Roster\AimyRoster\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\Roster\AimyRoster\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\Roster\AimyRoster\bin\roslyn\vbc.exe
+C:\projects\Roster\AimyRoster\bin\roslyn\VBCSCompiler.exe
+C:\projects\Roster\AimyRoster\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\Roster\AimyRoster\bin\AimyRoster.dll.config
+C:\projects\Roster\AimyRoster\bin\AimyRoster.dll
+C:\projects\Roster\AimyRoster\bin\AimyRoster.pdb
+C:\projects\Roster\AimyRoster\bin\EntityFramework.dll
+C:\projects\Roster\AimyRoster\bin\EntityFramework.SqlServer.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.Agent.Intercept.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.DependencyCollector.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.Web.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.WindowsServer.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.ApplicationInsights.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\Roster\AimyRoster\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\Roster\AimyRoster\bin\System.Web.Helpers.dll
+C:\projects\Roster\AimyRoster\bin\System.Web.Mvc.dll
+C:\projects\Roster\AimyRoster\bin\System.Web.Razor.dll
+C:\projects\Roster\AimyRoster\bin\System.Web.Webpages.Deployment.dll
+C:\projects\Roster\AimyRoster\bin\System.Web.Webpages.dll
+C:\projects\Roster\AimyRoster\bin\System.Web.Webpages.Razor.dll
+C:\projects\Roster\AimyRoster\bin\EntityFramework.xml
+C:\projects\Roster\AimyRoster\bin\EntityFramework.SqlServer.xml
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.DependencyCollector.xml
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.Web.xml
+C:\projects\Roster\AimyRoster\bin\Microsoft.AI.WindowsServer.xml
+C:\projects\Roster\AimyRoster\bin\Microsoft.ApplicationInsights.xml
+C:\projects\Roster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\Roster\AimyRoster\bin\System.Web.Razor.xml
+C:\projects\Roster\AimyRoster\bin\System.Web.Webpages.xml
+C:\projects\Roster\AimyRoster\bin\System.Web.Webpages.Deployment.xml
+C:\projects\Roster\AimyRoster\bin\System.Web.Webpages.Razor.xml
+C:\projects\Roster\AimyRoster\bin\System.Web.Helpers.xml
+C:\projects\Roster\AimyRoster\bin\System.Web.Mvc.xml
+C:\projects\Roster\AimyRoster\obj\Debug\AimyRoster.dll
+C:\projects\Roster\AimyRoster\obj\Debug\AimyRoster.pdb
+C:\projects\Roster\AimyRoster\obj\Debug\AimyRoster.csprojResolveAssemblyReference.cache
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\ApplicationInsights.config
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\csc.exe
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\vbc.exe
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\VBCSCompiler.exe
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\AimyRoster.dll.config
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\AimyRoster.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\AimyRoster.pdb
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\EntityFramework.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\EntityFramework.SqlServer.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.Web.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Helpers.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Mvc.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Razor.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Webpages.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Webpages.Razor.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\EntityFramework.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\EntityFramework.SqlServer.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.Web.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Razor.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Webpages.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Webpages.Razor.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Helpers.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\bin\System.Web.Mvc.xml
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\obj\Debug\AimyRoster.dll
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\obj\Debug\AimyRoster.pdb
+C:\Users\gingronn\Documents\GitHub\AimyRoster\AimyRoster\obj\Debug\AimyRoster.csprojResolveAssemblyReference.cache
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\ApplicationInsights.config
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\csc.exe
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\vbc.exe
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\AimyRoster.dll.config
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\AimyRoster.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\AimyRoster.pdb
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\EntityFramework.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\EntityFramework.SqlServer.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.Web.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Helpers.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Mvc.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Razor.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Webpages.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\EntityFramework.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\EntityFramework.SqlServer.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.Web.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Razor.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Webpages.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Helpers.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\bin\System.Web.Mvc.xml
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\obj\Debug\AimyRoster.csprojResolveAssemblyReference.cache
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\obj\Debug\AimyRoster.dll
+C:\Users\Kitty\Desktop\Ronn Roster\AimyRoster\obj\Debug\AimyRoster.pdb
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\ApplicationInsights.config
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\csc.exe
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\vbc.exe
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\VBCSCompiler.exe
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\AimyRoster.dll.config
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\AimyRoster.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\AimyRoster.pdb
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\EntityFramework.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\EntityFramework.SqlServer.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.Web.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Helpers.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Mvc.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Razor.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Webpages.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Webpages.Razor.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\EntityFramework.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\EntityFramework.SqlServer.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.Web.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Razor.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Webpages.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Webpages.Razor.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Helpers.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\bin\System.Web.Mvc.xml
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\obj\Debug\AimyRoster.dll
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\obj\Debug\AimyRoster.pdb
+C:\Users\gingronn\Desktop\AimyRoster-Ronn\AimyRoster\obj\Debug\AimyRoster.csprojResolveAssemblyReference.cache
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\ApplicationInsights.config
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\csc.exe
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\vbc.exe
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\VBCSCompiler.exe
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\AimyRoster.dll.config
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\AimyRoster.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\AimyRoster.pdb
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\EntityFramework.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\EntityFramework.SqlServer.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.Web.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Helpers.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Mvc.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Razor.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Webpages.Deployment.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Webpages.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Webpages.Razor.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\EntityFramework.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\EntityFramework.SqlServer.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.Web.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Razor.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Webpages.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Webpages.Deployment.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Webpages.Razor.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Helpers.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\bin\System.Web.Mvc.xml
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\obj\Debug\AimyRoster.csprojResolveAssemblyReference.cache
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\obj\Debug\AimyRoster.dll
+C:\Users\gingronn\Desktop\AimyRoster\AimyRoster\obj\Debug\AimyRoster.pdb

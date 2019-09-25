@@ -1,0 +1,259 @@
+﻿.k-input:hover,
+.k-select:hover,
+.k-dropdown-wrap.k-state-default.k-state-hover,
+.k-dropdown-wrap.k-state-default.k-state-focused,
+.k-dropdown-wrap.k-state-default.k-state-focused.k-state-active.k-state-border-down:hover{
+    background-color: white !important; 
+}
+
+  .k-grid tr:not(.k-state-selected):hover{
+      background: none;
+      color: inherit;
+  }
+
+   .k-grid{
+      width: 100%;
+  }
+
+    .k-grid tr.k-alt:not(.k-state-selected):hover {
+      background: inherit;
+  }
+
+   .k-grid td{
+      border-width: .1px .1px .1px .1px;
+  }
+
+.container-fluid {
+  margin-top: 40px;
+}
+
+.demo-section.k-content{
+     background: #F5F5F5;
+}
+
+#left-panel {
+  outline: none;
+  min-height: 500px;
+  background: #F5F5F5;
+  /*border-collapse: collapse;*/
+}
+
+#right-panel {
+  outline: none;
+  min-height: 500px;
+  /*border-collapse: collapse;*/
+}
+
+/*.staff-row{
+  height: 10px;
+}*/
+
+/*.myCells {
+    color: #787878;
+    background-color: white;
+}*/
+
+.add-roster-btn{
+  cursor: pointer;
+}
+
+.add-roster-wrapper{
+  text-align:center;
+  vertical-align: bottom;
+  min-height: 80px;
+}
+
+.glyphicon-plus {
+	margin-top:5px;
+	margin-bottom:5px;
+	/*background:orange;*/
+}
+
+.glyphicon-remove{
+    margin-left: 5px;
+    display: none;
+}
+
+.edit-Record{
+    margin-left:5px;
+    display: none;
+}
+
+.edit-Record:hover,.glyphicon-remove:hover{
+    cursor:pointer;
+}
+
+.innerdiv{
+	background:#32C0C6;
+	display: block;
+	width:80%;
+	margin:auto;
+	margin-top:3px;
+	font-size:14px;
+	padding:5px 0 5px 0;
+}
+
+.daily-roster-wrapper{
+  text-align:center;
+  vertical-align: central;
+}
+
+/*used when the mouse is on the widget*/
+.small{
+    font-size:9px;
+}
+
+.active{
+    background: #30ABE0;
+}
+
+.dateHeader, .dateHeader:hover{
+    background-color: #D8EAF4;
+}
+
+.staffName{
+    background-color: #D8EAF4;
+}
+
+.todayHeader{
+    background-color: #30ABE0;
+    color: white;
+}
+
+.ui-grid-row:nth-child(even) .ui-grid-cell {
+    background-color: transparent !important;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.pull-right{
+    float: right!important;
+}
+
+div{
+    display: block;
+}
+
+.input-group{
+    width: 100%;
+}
+
+#warning{
+    color: red;
+}
+
+.k-notification {
+    border: 0;
+}
+
+
+/* Info template */
+.k-notification-info.k-group {
+    background: rgba(0%,0%,0%,.7);
+    color: #fff;
+}
+
+.new-mail {
+    width: 300px;
+    height: 100px;
+}
+
+    .new-mail h3 {
+        font-size: 1em;
+        padding: 32px 10px 5px;
+    }
+
+    .new-mail img {
+        float: left;
+        margin: 30px 15px 30px 30px;
+    }
+
+/* Error template */
+.k-notification-error.k-group {
+    background: rgba(203, 116, 116, 0.50);
+    color: #ffffff;
+}
+
+.wrong-pass {
+    width: 300px;
+    height: 100px;
+}
+
+    .wrong-pass h3 {
+        font-size: 1em;
+        padding: 32px 10px 5px;
+    }
+
+    .wrong-pass img {
+        float: left;
+        margin: 30px 15px 30px 30px;
+    }
+
+/* Success template */
+.k-notification-upload-success.k-group {
+    background: rgba(0%,60%,0%,.7);
+    color: #fff;
+}
+
+.upload-success {
+    width: 240px;
+    height: 100px;
+    padding: 0 30px;
+    line-height: 100px;
+}
+
+    .upload-success h3 {
+        font-size: 1.7em;
+        font-weight: normal;
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .upload-success img {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 10px;
+    }
+
+    .inline{
+        display: inline-block;
+    }
+    /*.pull-right{
+        float:right!important;
+    }*/
+
+    .k-progressbar
+{
+    width: auto;
+    display: block;
+    padding:0;
+    margin: 0;
+}
+
+    .contactProgressbar
+{
+    background-color: purple;
+}
+
+    .nonContactProgressbar
+{
+    background-color: yellow;
+}
+
+svg {
+    /*height: 0;*/
+    width: 100%;
+    position: relative;
+    padding: 0;
+}
+
+.menu-down-btn {
+    float:right;
+    visibility:hidden;
+}
+
+.planned {
+    max-height: 28.6px;
+}
